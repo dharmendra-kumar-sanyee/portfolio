@@ -1,207 +1,43 @@
-
+<!doctype html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dharmendra Kumar | Dharmendra Kumar Sanyee | Full-Stack Laravel Developer | Full-Stack PHP Developer | Full-Stack Next Js Developer </title>
-    <meta name="description" content="Dharmendra Kumar | Freelance Full-Stack PHP Developer specializing in Laravel & CI. Expert in Web Solutions, E-commerce, APIs, Marketing & CRM Automation, Remote Projects. Contact via WhatsApp or Email.">
-    <meta name="keywords" content="Dharmendra Kumar, PHP Developer, Laravel, CodeIgniter, Full-Stack Developer, Web Solutions, E-commerce, API Integration, Marketing, CRM, Freelancer, Remote Projects, GitHub Portfolio, LMS, School Management System">
-    <meta name="author" content="Dharmendra Kumar">
-    <meta name="google-site-verification" content="INwhxzFg7SbeQ702smOeT7q8rbd3EITVkmkUTA-jjkc" />
-    <!-- Open Graph / Social -->
-    <meta property="og:title" content="Dharmendra Kumar | Full-Stack PHP Developer & CRM Specialist">
-    <meta property="og:description" content="Freelance Developer specializing in Web Solutions, E-commerce, APIs, Marketing & CRM Automation.">
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="https://dharmendrakumarsanyee/github-portfolio/.github.io/portfolio/">
-    <meta property="og:image" content="https://dharmendrakumarsanyee/github-portfolio/.github.io/portfolio/dharmendrakumarsanyee-profile-photo.jpg">
-    <link rel="icon" href="dharmendrakumarsanyee-profile-photo.jpg" type="image/png">
-    <!-- Bootstrap CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
-
-    <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
-
-    <!-- AOS Animations -->
-    <link href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" rel="stylesheet">
-
-  <!-- Minimal Custom CSS -->
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Dharmendra Kumar — Portfolio</title>
   <style>
-    body { font-family: 'Roboto', sans-serif; scroll-behavior: smooth; overflow-x: hidden; }
-    nav { transition: background 0.5s; }
-    nav.scrolled { background: #0d6efd !important; box-shadow: 0 4px 10px rgba(0,0,0,0.1); }
-    .hero { height: 100vh; color: #fff; background: linear-gradient(135deg, #1e3c72, #2a5298); }
+    body{font-family:system-ui,Segoe UI,Roboto,Arial;margin:0;padding:40px;background:#f7fafc}
+    .container{max-width:900px;margin:0 auto;background:#fff;padding:30px;border-radius:10px;box-shadow:0 6px 24px rgba(0,0,0,.08)}
+    img.avatar{width:140px;height:140px;border-radius:50%;object-fit:cover}
+    h1{margin-top:10px}
   </style>
 </head>
 <body>
-
-<!-- Navbar -->
-<nav class="navbar navbar-expand-lg navbar-dark fixed-top">
   <div class="container">
-    <!--<a class="navbar-brand" href="#">Dharmendra Kumar</a>-->
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarNav">
-      <ul class="navbar-nav ms-auto">
-        <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
-        <li class="nav-item"><a class="nav-link" href="#skills">Skills</a></li>
-        <li class="nav-item"><a class="nav-link" href="#experience">Experience</a></li>
-        <li class="nav-item"><a class="nav-link" href="#projects">Projects</a></li>
-        <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
+    <div style="display:flex;gap:20px;align-items:center">
+      <img class="avatar" src="assets/profile.jpg" alt="Dharmendra">
+      <div>
+        <h1>Dharmendra Kumar</h1>
+        <p>Senior Laravel & Full-stack developer — Laravel, MySQL, Next.js</p>
+        <p>
+          <a href="https://github.com/dharmendrakumarsanyee">GitHub</a> •
+          <a href="#projects">Projects</a> •
+          <a href="#contact">Contact</a>
+        </p>
+      </div>
+    </div>
+
+    <section id="projects">
+      <h2>Projects</h2>
+      <ul>
+        <li><strong>Project A</strong> — Laravel, MySQL. <a href="https://github.com/dharmendrakumarsanyee/project-a">repo</a></li>
+        <li><strong>Project B</strong> — Next.js, Prisma. <a href="https://github.com/dharmendrakumarsanyee/project-b">repo</a></li>
       </ul>
-    </div>
+    </section>
+
+    <section id="contact">
+      <h2>Contact</h2>
+      <p>Email: youremail@example.com</p>
+    </section>
   </div>
-</nav>
-
-<!-- Hero Section -->
-<section class="hero d-flex align-items-center justify-content-center text-center vh-100">
-  <div data-aos="fade-up">
-    <h1 class="display-4 fw-bold">Dharmendra Kumar</h1>
-    <p class="lead mb-4">Freelance Full-Stack PHP Developer | Laravel & CI | Web Solutions | API | E-commerce | Marketing & CRM | Remote Projects</p>
-    <a href="#contact" class="btn btn-light btn-lg me-2">Hire Me</a>
-    <a href="https://github.com/dharmendrakumarsanyee/github-portfolio" target="_blank" class="btn btn-outline-light btn-lg">GitHub</a>
-  </div>
-</section>
-
-<!-- About Section -->
-<section id="about" class="py-5">
-  <div class="container">
-    <h2 class="text-center fw-bold mb-5" data-aos="fade-up">About Me</h2>
-    <div class="row align-items-center">
-      <div class="col-md-5 text-center mb-4 mb-md-0" data-aos="fade-right">
-        <img src="https://avatars.githubusercontent.com/u/79008513?v=4" alt="Dharmendra Kumar" class="img-fluid rounded-circle about-img" loading="lazy">
-      </div>
-      <div class="col-md-7" data-aos="fade-up">
-        <p>I am a Freelance Full-Stack PHP Developer specializing in Laravel and CodeIgniter frameworks. I build scalable web solutions, E-commerce platforms, APIs, Marketing & CRM automation tools, and school management systems (LMS). Experienced in handling remote projects for international and domestic clients. Passionate about delivering optimized and high-performance solutions for businesses.</p>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- Skills Section -->
-<section id="skills" class="py-5 bg-light">
-  <div class="container">
-    <h2 class="text-center fw-bold mb-5" data-aos="fade-up">Skills</h2>
-    <div class="text-center" data-aos="fade-up" data-aos-delay="100">
-      <span class="badge bg-primary m-1">PHP</span>
-      <span class="badge bg-primary m-1">Laravel</span>
-      <span class="badge bg-primary m-1">CodeIgniter</span>
-      <span class="badge bg-primary m-1">MySQL</span>
-      <span class="badge bg-primary m-1">HTML</span>
-      <span class="badge bg-primary m-1">CSS</span>
-      <span class="badge bg-primary m-1">Bootstrap</span>
-      <span class="badge bg-primary m-1">JavaScript</span>
-      <span class="badge bg-primary m-1">jQuery</span>
-      <span class="badge bg-primary m-1">Git/GitHub</span>
-      <span class="badge bg-primary m-1">API Integration</span>
-      <span class="badge bg-primary m-1">Marketing Automation</span>
-      <span class="badge bg-primary m-1">CRM Solutions</span>
-      <span class="badge bg-primary m-1">Problem Solving</span>
-      <span class="badge bg-primary m-1">Communication</span>
-      <span class="badge bg-primary m-1">Teamwork</span>
-    </div>
-  </div>
-</section>
-
-<!-- Experience Section -->
-<section id="experience" class="py-5">
-  <div class="container">
-    <h2 class="text-center fw-bold mb-5" data-aos="fade-up">Experience</h2>
-    <ul class="list-group" data-aos="fade-up" data-aos-delay="100">
-      <li class="list-group-item"><strong>Owebest Technologies Pvt. Ltd.</strong> — PHP Developer</li>
-      <li class="list-group-item"><strong>Next Big Technology (NBT)</strong> — Web Developer</li>
-      <li class="list-group-item"><strong>Krishna Padam IT Solution (KPIS)</strong> — PHP Developer</li>
-      <li class="list-group-item"><strong>Accentuate E Services Pvt. Ltd.</strong> — Web Developer</li>
-      <li class="list-group-item"><strong>Freelancer (Remote Projects)</strong> — Full-Stack PHP Developer & CRM/Marketing Specialist</li>
-    </ul>
-  </div>
-</section>
-
-<!-- Projects Section -->
-<section id="projects" class="py-5 bg-light">
-  <div class="container">
-    <h2 class="text-center fw-bold mb-5" data-aos="fade-up">Projects</h2>
-    <div class="row g-4">
-      <div class="col-md-4" data-aos="fade-up" data-aos-delay="100">
-        <div class="card h-100 shadow">
-          <div class="card-body">
-            <h5 class="card-title">Learning Management System (LMS)</h5>
-            <p class="card-text">Custom LMS for schools with online lessons, student tracking, and assignments.</p>
-            <p><strong>Tech:</strong> PHP, Laravel, MySQL, Bootstrap, jQuery</p>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-4" data-aos="fade-up" data-aos-delay="200">
-        <div class="card h-100 shadow">
-          <div class="card-body">
-            <h5 class="card-title">School Management System</h5>
-            <p class="card-text">Complete solution for timetable, lesson planning, holidays, and parent portal access.</p>
-            <p><strong>Tech:</strong> Laravel, MySQL, AJAX, Bootstrap</p>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-4" data-aos="fade-up" data-aos-delay="300">
-        <div class="card h-100 shadow">
-          <div class="card-body">
-            <h5 class="card-title">E-Commerce Platforms</h5>
-            <p class="card-text">Multiple e-commerce solutions with secure payment integration and order management.</p>
-            <p><strong>Tech:</strong> PHP, CodeIgniter, MySQL, REST APIs, Bootstrap</p>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-4" data-aos="fade-up" data-aos-delay="400">
-        <div class="card h-100 shadow">
-          <div class="card-body">
-            <h5 class="card-title">API Integrations</h5>
-            <p class="card-text">Implemented APIs for payment gateways, SMS services, and social login.</p>
-            <p><strong>Tech:</strong> PHP, REST APIs, JSON, OAuth</p>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-4" data-aos="fade-up" data-aos-delay="500">
-        <div class="card h-100 shadow">
-          <div class="card-body">
-            <h5 class="card-title">Marketing & CRM Solutions</h5>
-            <p class="card-text">Custom CRM and marketing automation tools to manage leads, sales pipelines, and customer engagement.</p>
-            <p><strong>Tech:</strong> PHP, Laravel, MySQL, Bootstrap, Email APIs</p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- Contact Section -->
-<section id="contact" class="py-5">
-  <div class="container">
-    <h2 class="text-center fw-bold mb-5" data-aos="fade-up">Contact Me</h2>
-    <div class="row text-center g-3" data-aos="fade-up" data-aos-delay="100">
-      <div class="col-md-4">
-        <a href="https://wa.me/916375222806?text=Hello%20Kishan,%20I%20am%20interested%20in%20hiring%20you%20for%20a%20web%20development%20project.%20Please%20let%20me%20know%20the%20best%20way%20to%20proceed." target="_blank" class="btn btn-success w-100">WhatsApp Chat</a>
-      </div>
-      <div class="col-md-4">
-        <a href="mailto:kishanbundel8233@gmail.com" class="btn btn-primary w-100">Email Me</a>
-      </div>
-      <div class="col-md-4">
-        <a href="https://www.linkedin.com/in/kishanbundel/" target="_blank" class="btn btn-info w-100">LinkedIn</a>
-      </div>  
-    </div>
-  </div>
-</section>
-
-<!-- Footer -->
-<footer class="bg-primary text-white text-center py-3">
-  <p class="mb-0">&copy; 2025 Dharmendra Kumar. All Rights Reserved.</p>
-</footer>
-
-<!-- Scripts -->
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
-<script>
-  AOS.init({ duration: 1000, once: true });
-  window.addEventListener('scroll', function() {
-    document.querySelector('nav').classList.toggle('scrolled', window.scrollY > 50);
-  });
-</script>
 </body>
 </html>
