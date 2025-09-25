@@ -1,18 +1,19 @@
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kishan Bundel | Full-Stack PHP Developer & CRM Specialist</title>
-    <meta name="description" content="Kishan Bundel | Freelance Full-Stack PHP Developer specializing in Laravel & CI. Expert in Web Solutions, E-commerce, APIs, Marketing & CRM Automation, Remote Projects. Contact via WhatsApp or Email.">
-    <meta name="keywords" content="Kishan Bundel, PHP Developer, Laravel, CodeIgniter, Full-Stack Developer, Web Solutions, E-commerce, API Integration, Marketing, CRM, Freelancer, Remote Projects, GitHub Portfolio, LMS, School Management System">
-    <meta name="author" content="Kishan Bundel">
+    <title>Dharmendra Kumar Sanyee | Dharmendra Kumar Sanyee | Full-Stack Laravel Developer | Full-Stack PHP Developer | Full-Stack Next Js Developer </title>
+    <meta name="description" content="Dharmendra Kumar | Freelance Full-Stack PHP Developer specializing in Laravel & CI. Expert in Web Solutions, E-commerce, APIs, Marketing & CRM Automation, Remote Projects. Contact via WhatsApp or Email.">
+    <meta name="keywords" content="Dharmendra Kumar, PHP Developer, Laravel, CodeIgniter, Full-Stack Developer, Web Solutions, E-commerce, API Integration, Marketing, CRM, Freelancer, Remote Projects, GitHub Portfolio, LMS, School Management System">
+    <meta name="author" content="Dharmendra Kumar">
     <meta name="google-site-verification" content="INwhxzFg7SbeQ702smOeT7q8rbd3EITVkmkUTA-jjkc" />
     <!-- Open Graph / Social -->
-    <meta property="og:title" content="Kishan Bundel | Full-Stack PHP Developer & CRM Specialist">
+    <meta property="og:title" content="Dharmendra Kumar | Full-Stack PHP Developer & CRM Specialist">
     <meta property="og:description" content="Freelance Developer specializing in Web Solutions, E-commerce, APIs, Marketing & CRM Automation.">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://kishan-bundel.github.io/portfolio/">
-    <meta property="og:image" content="https://kishan-bundel.github.io/portfolio/dharmendrakumarsanyee-profile-photo.jpg">
+    <meta property="og:url" content="https://dharmendrakumarsanyee/github-portfolio/.github.io/portfolio/">
+    <meta property="og:image" content="https://dharmendrakumarsanyee/github-portfolio/.github.io/portfolio/dharmendrakumarsanyee-profile-photo.jpg">
     <link rel="icon" href="dharmendrakumarsanyee-profile-photo.jpg" type="image/png">
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -36,7 +37,7 @@
 <!-- Navbar -->
 <nav class="navbar navbar-expand-lg navbar-dark fixed-top">
   <div class="container">
-    <a class="navbar-brand" href="#">Kishan Bundel</a>
+    <a class="navbar-brand" href="#">Dharmendra Kumar</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -55,10 +56,10 @@
 <!-- Hero Section -->
 <section class="hero d-flex align-items-center justify-content-center text-center vh-100">
   <div data-aos="fade-up">
-    <h1 class="display-4 fw-bold">Kishan Bundel</h1>
+    <h1 class="display-4 fw-bold">Dharmendra Kumar</h1>
     <p class="lead mb-4">Freelance Full-Stack PHP Developer | Laravel & CI | Web Solutions | API | E-commerce | Marketing & CRM | Remote Projects</p>
     <a href="#contact" class="btn btn-light btn-lg me-2">Hire Me</a>
-    <a href="https://github.com/kishan-bundel" target="_blank" class="btn btn-outline-light btn-lg">GitHub</a>
+    <a href="https://github.com/dharmendrakumarsanyee/github-portfolio" target="_blank" class="btn btn-outline-light btn-lg">GitHub</a>
   </div>
 </section>
 
@@ -68,7 +69,7 @@
     <h2 class="text-center fw-bold mb-5" data-aos="fade-up">About Me</h2>
     <div class="row align-items-center">
       <div class="col-md-5 text-center mb-4 mb-md-0" data-aos="fade-right">
-        <img src="kishan-bundel-profile-photo.jpg" alt="Kishan Bundel" class="img-fluid rounded-circle about-img" loading="lazy">
+        <img src="dharmendrakumarsanyee/github-portfolio-profile-photo.jpg" alt="Dharmendra Kumar" class="img-fluid rounded-circle about-img" loading="lazy">
       </div>
       <div class="col-md-7" data-aos="fade-up">
         <p>I am a Freelance Full-Stack PHP Developer specializing in Laravel and CodeIgniter frameworks. I build scalable web solutions, E-commerce platforms, APIs, Marketing & CRM automation tools, and school management systems (LMS). Experienced in handling remote projects for international and domestic clients. Passionate about delivering optimized and high-performance solutions for businesses.</p>
@@ -190,7 +191,7 @@
 
 <!-- Footer -->
 <footer class="bg-primary text-white text-center py-3">
-  <p class="mb-0">&copy; 2025 Kishan Bundel. All Rights Reserved.</p>
+  <p class="mb-0">&copy; 2025 Dharmendra Kumar. All Rights Reserved.</p>
 </footer>
 
 <!-- Scripts -->
