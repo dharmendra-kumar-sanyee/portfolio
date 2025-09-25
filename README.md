@@ -1,21 +1,38 @@
-
 # Dharmendra Kumar Sanyee
 
-Hi, I'm **Dharmendra Kumar Sanyee**, a Freelance Full-Stack PHP & Laravel Developer specializing in web solutions, e-commerce platforms, API integration, and CRM automation.
+Hi, I'm **Dharmendra Kumar Sanyee**, a Freelance Full-Stack Developer specializing in **PHP, Laravel, Next.js, Node.js, and MongoDB**. I build **web solutions, e-commerce platforms, APIs, on-demand services, and service-based fitness platforms**. I also work with **search technologies like Solr, Elasticsearch, and Swarcg**, and deploy projects on **AWS** with MySQL and other databases.
 
-- **Skills:** PHP, Laravel, CodeIgniter, MySQL, Bootstrap, JavaScript, jQuery, REST APIs, Git/GitHub
-- **Experience:** Owebest Technologies, Next Big Technology, Krishna Padam IT Solution, Accentuate E Services, Freelancer (Remote Projects)
-- **Projects:**
-  - Learning Management System (LMS) — PHP, Laravel, MySQL
-  - School Management System — Laravel, MySQL, AJAX
-  - E-Commerce Platforms — PHP, CodeIgniter, MySQL
-  - API Integrations — PHP, REST APIs
-  - Marketing & CRM Solutions — Laravel, MySQL, Bootstrap
+---
 
-📫 **Contact Me:**
-- WhatsApp: [Click to Chat](https://wa.me/916375222806)
-- Email: [kishanbundel8233@gmail.com](mailto:kishanbundel8233@gmail.com)
-- LinkedIn: [linkedin.com/in/kishanbundel](https://www.linkedin.com/in/kishanbundel/)
+## **Skills**
+- Backend: PHP, Laravel, CodeIgniter, Node.js, Next.js, MySQL, MongoDB  
+- Frontend: HTML, CSS, Bootstrap, JavaScript, jQuery  
+- DevOps & Cloud: AWS, Git/GitHub  
+- Search & Analytics: Solr, Elasticsearch  
+- Others: API Integration,  E-commerce Solutions, On-Demand Services  
+
+---
+
+## **Experience** 
+- Next Big Technology (NBT) — Web Developer  
+- Dev technosys Pvt Ltd ( CAMMI LEVEL 3 ) — Laravel & Next js Developer  
+
+
+
+---
+
+## **Projects**
+- On the marc training ( Service-Based Fitness Platform ) — PHP, Laravel, MySQL  
+- Tagframe( E-Commerce Platforms) — PHP, Laravel, MySQL , AWS 
+- maintenx (On-Demand Service Platforms) — Node.js, Next.js, MongoDB, AWS  
+- friendlitv (Sports streamming) — Node.js, Next.js, MongoDB  
+
+---
+
+## **Contact Me**
+- WhatsApp: [Click to Chat](https://wa.me/919468905600)  
+- Email: [dharmendrakumarsanyee@gmail.com](mailto:dharmendrakumarsanyee@gmail.com)  
+- LinkedIn: [linkedin.com/in/dharmendra-kumar-immediate-joiner-915135204](https://www.linkedin.com/in/dharmendra-kumar-immediate-joiner-915135204)  
 
 ---
 
