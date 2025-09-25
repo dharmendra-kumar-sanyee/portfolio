@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Dharmendra Kumar — Portfolio</title>
+  <title>Dharmendra Kumar — Portfolio </title>
   <style>
     body{font-family:system-ui,Segoe UI,Roboto,Arial;margin:0;padding:40px;background:#f7fafc}
     .container{max-width:900px;margin:0 auto;background:#fff;padding:30px;border-radius:10px;box-shadow:0 6px 24px rgba(0,0,0,.08)}
