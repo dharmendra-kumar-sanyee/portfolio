@@ -12,8 +12,8 @@
     <meta property="og:description" content="Freelance Developer specializing in Web Solutions, E-commerce, APIs, Marketing & CRM Automation.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://kishan-bundel.github.io/portfolio/">
-    <meta property="og:image" content="https://kishan-bundel.github.io/portfolio/kishan-bundel-profile-photo.jpg">
-    <link rel="icon" href="kishan-bundel-profile-photo.jpg" type="image/png">
+    <meta property="og:image" content="https://kishan-bundel.github.io/portfolio/dharmendrakumarsanyee-profile-photo.jpg">
+    <link rel="icon" href="dharmendrakumarsanyee-profile-photo.jpg" type="image/png">
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
 
