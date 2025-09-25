@@ -69,7 +69,7 @@
     <h2 class="text-center fw-bold mb-5" data-aos="fade-up">About Me</h2>
     <div class="row align-items-center">
       <div class="col-md-5 text-center mb-4 mb-md-0" data-aos="fade-right">
-        <img src="dharmendrakumarsanyee/github-portfolio-profile-photo.jpg" alt="Dharmendra Kumar" class="img-fluid rounded-circle about-img" loading="lazy">
+        <img src="https://avatars.githubusercontent.com/u/79008513?v=4" alt="Dharmendra Kumar" class="img-fluid rounded-circle about-img" loading="lazy">
       </div>
       <div class="col-md-7" data-aos="fade-up">
         <p>I am a Freelance Full-Stack PHP Developer specializing in Laravel and CodeIgniter frameworks. I build scalable web solutions, E-commerce platforms, APIs, Marketing & CRM automation tools, and school management systems (LMS). Experienced in handling remote projects for international and domestic clients. Passionate about delivering optimized and high-performance solutions for businesses.</p>
