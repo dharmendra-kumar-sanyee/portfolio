@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dharmendra Kumar Sanyee | Dharmendra Kumar Sanyee | Full-Stack Laravel Developer | Full-Stack PHP Developer | Full-Stack Next Js Developer </title>
+    <title>Dharmendra Kumar | Dharmendra Kumar Sanyee | Full-Stack Laravel Developer | Full-Stack PHP Developer | Full-Stack Next Js Developer </title>
     <meta name="description" content="Dharmendra Kumar | Freelance Full-Stack PHP Developer specializing in Laravel & CI. Expert in Web Solutions, E-commerce, APIs, Marketing & CRM Automation, Remote Projects. Contact via WhatsApp or Email.">
     <meta name="keywords" content="Dharmendra Kumar, PHP Developer, Laravel, CodeIgniter, Full-Stack Developer, Web Solutions, E-commerce, API Integration, Marketing, CRM, Freelancer, Remote Projects, GitHub Portfolio, LMS, School Management System">
     <meta name="author" content="Dharmendra Kumar">
